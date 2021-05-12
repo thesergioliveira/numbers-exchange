@@ -25,6 +25,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 
+---
+
 This section lists the major tools and frameworks that you were used to built this project.
 
 - [Scss](https://sass-lang.com/)
@@ -34,6 +36,8 @@ This section lists the major tools and frameworks that you were used to built th
 <!-- GETTING STARTED -->
 
 ### Getting Started
+
+---
 
 Instructions to come here. Please wait, this readme is a work in progress...
 
@@ -73,6 +77,8 @@ This is an example of how to list things you need to use the software and how to
 
 ### Usage
 
+---
+
 More to come...
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -88,6 +94,8 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 ### Contributing
 
+---
+
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -100,15 +108,19 @@ Contributions are what make the open source community such an amazing place to b
 
 ### License
 
+---
+
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
 ### Contact
 
+---
+
 Sergio Oliveira - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [password-application](https://thesergioliveira.github.io/password-application/)
+Project Link- [password-application]()
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements
